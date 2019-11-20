@@ -1,0 +1,12 @@
+﻿  mylexer.cpp
+C:\Users\曾志韬\Desktop\TestPG4\pg\mylexer.l(8,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  myparser.cpp
+C:\Users\曾志韬\Desktop\PG4\mylexer.cpp : message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+C:\Users\曾志韬\Desktop\TestPG4\pg\myparser.y(7,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  正在生成代码...
+C:\Users\曾志韬\Desktop\PG4\myparser.cpp : message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 274 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  pg.vcxproj -> C:\Users\曾志韬\Desktop\TestPG4\Release\pg.exe
